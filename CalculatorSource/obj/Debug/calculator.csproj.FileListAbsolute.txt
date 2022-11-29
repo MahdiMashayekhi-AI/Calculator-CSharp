@@ -1,0 +1,26 @@
+c:\Alltamrin\calculator\calculator\bin\Debug\calculator.exe.config
+c:\Alltamrin\calculator\calculator\bin\Debug\calculator.exe
+c:\Alltamrin\calculator\calculator\bin\Debug\calculator.pdb
+c:\Alltamrin\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+c:\Alltamrin\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+c:\Alltamrin\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+c:\Alltamrin\calculator\calculator\obj\Debug\calculator.exe
+c:\Alltamrin\calculator\calculator\obj\Debug\calculator.pdb
+c:\Alltamrin\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Alltamrin\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Alltamrin\calculator\calculator\bin\Debug\calculator.exe
+D:\Alltamrin\calculator\calculator\bin\Debug\calculator.pdb
+D:\Alltamrin\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Alltamrin\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Alltamrin\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
+D:\Alltamrin\calculator\calculator\obj\Debug\calculator.exe
+D:\Alltamrin\calculator\calculator\obj\Debug\calculator.pdb
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\bin\Debug\calculator.exe.config
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\obj\Debug\calculator.exe
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\obj\Debug\calculator.pdb
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\bin\Debug\calculator.exe
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\bin\Debug\calculator.pdb
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\obj\Debug\calculator.csprojResolveAssemblyReference.cache
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\Movie\C Sharp\فرادرس _ برنامه نویسی سی شارپ پیشرفته\[FVCS9311] C_Sharp_Programming\Files_and_codes\S04-S06\calculator\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.Cache
